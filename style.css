@@ -1,0 +1,58 @@
+/* Example of class */ 
+/* CSS Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #910404;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 40px;
+  text-align: ;
+}
+
+nav ul li a {
+  text-decoration:none;
+  color: #333;
+  padding: 5px;  
+  cursor: pointer;
+  background-color: #f4f4f4;
+}
+
+nav ul li a :active {
+  background-color: rgb(255, 29, 29); /* Change this to your desired active tab color */
+}
+
+main {
+  padding: 20px;
+  text-align: center
+;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+
